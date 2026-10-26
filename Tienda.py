@@ -1,0 +1,10 @@
+print("hola, jugador, te voy a hacer algunas preguntas, por favor responde.")
+nombre= input("¿cual es tu nombre?")
+juego= input(" ¿cual es tu juego favorito?")
+platafroma= input("ingresa tu plataforma favorita")
+print("esta es tu informacion:")
+Print(nombre)
+Print(juego)
+Print(plataforma)
+print("gracias por tu informacion")
+
